@@ -1,3 +1,5 @@
+Projeto de Angular criado ao realizar o curso pela Digital Innovation One.
+
 # CourseManager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
